@@ -1,0 +1,16 @@
+Tutorial 1- HTML5 Canvas - index.php
+
+Tutorial 2- CSS3 - index.php
+
+Tutorial 3- jQuery - contact.php
+
+Tutorial 4- AJAX - book.php
+
+Tutorial 5- PHP, MySQL - admin.php, admin1.php, adminportal.php, add.php, add1.php, view.php
+
+Tutorial 6- Wordpress - Will show in internal Viva
+
+
+Name                 Roll No               Roles
+Kashish Gupta        1507937           HTML5, CSS3, Wordpress
+Muskan               1507945          jQuery, AJAX, PHP, MySQL

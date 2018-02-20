@@ -1,0 +1,11 @@
+<?php
+session_start();
+if(!$_SESSION['us'])
+{
+header("location:admin.php");
+}
+else
+{
+	header("location:adminportal.php");
+}
+?>
